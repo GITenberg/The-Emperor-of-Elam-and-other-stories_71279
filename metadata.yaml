@@ -1,0 +1,39 @@
+_repo: The-Emperor-of-Elam-and-other-stories_71279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dwight, H. G. (Harrison Griswold)
+    alias: Dwight, Harrison Griswold
+    birthdate: 1875
+    deathdate: 1959
+    gutenberg_agent_id: '39283'
+    url: http://www.gutenberg.org/2009/agents/39283
+description: ''
+gutenberg_issued: '2023-07-26'
+identifiers:
+  gutenberg: '71279'
+  lccn: '20019763'
+language: en
+pgterms:marc904: https://archive.org/details/emperorofelam00dwigrich/
+pgterms:marc905: 20211111201443dwight
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Like Michael -- Henrietta Stackpole rediviva -- The pagan -- White
+  bombazine -- Unto the day -- Mrs. Derwall and the higher life -- The bathers --
+  Retarded bombs -- Susannah and the Elder -- The emerald of Tamerlane (In collaboration
+  with John Taylor) -- Studio smoke -- Behind the door -- The bald spot -- The Emperor
+  of Elam.
+title: The Emperor of Elam, and other stories
+url: http://www.gutenberg.org/ebooks/71279

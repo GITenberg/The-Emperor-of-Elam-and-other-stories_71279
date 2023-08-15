@@ -1,5 +1,8 @@
 _repo: The-Emperor-of-Elam-and-other-stories_71279
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71279-h/images/cover.jpg
 creator:
   author:
     agent_name: Dwight, H. G. (Harrison Griswold)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39283'
     url: http://www.gutenberg.org/2009/agents/39283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71279#The-Emperor-of-Elam-and-other-stories
 gutenberg_issued: '2023-07-26'
 identifiers:
   gutenberg: '71279'
